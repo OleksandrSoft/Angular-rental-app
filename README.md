@@ -1,7 +1,4 @@
-# CarRentalFrontEnd
-
-## Table of contents
-* [About the Project](#about-project)
+# Rental-App (Angular)
 
 
 ## About Project
@@ -18,11 +15,3 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-
-
-  
-  # License Information
-The source code of this project is valid on use under GPL v3 license. For more detailed information, you can review the LICENSE document. 
-# CarRental-FrontEnd-Project
-# CarRental-FrontEnd-Project # CarRental-FrontEnd-Project
-# CarRental-Project-FrontEnd
